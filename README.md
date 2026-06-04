@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
