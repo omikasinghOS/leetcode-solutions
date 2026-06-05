@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0147-insertion-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0147-insertion-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 ## Stack
 |  |
 | ------- |
