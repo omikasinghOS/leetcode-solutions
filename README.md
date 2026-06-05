@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
