@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
