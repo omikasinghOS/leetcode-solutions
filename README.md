@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
