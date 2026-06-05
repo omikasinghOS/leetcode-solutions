@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
