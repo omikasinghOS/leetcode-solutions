@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
