@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0097-interleaving-string) |
 ## Math
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
@@ -240,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
