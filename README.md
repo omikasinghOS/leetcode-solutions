@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
