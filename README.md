@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0089-gray-code) |
 ## Memoization
 |  |
 | ------- |
