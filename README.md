@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
 | ------- |
