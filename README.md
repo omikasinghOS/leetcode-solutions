@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
