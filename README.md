@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -353,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
