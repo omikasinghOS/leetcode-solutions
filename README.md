@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
