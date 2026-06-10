@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
