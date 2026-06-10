@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
