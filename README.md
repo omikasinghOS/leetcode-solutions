@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [3838-weighted-word-mapping](https://github.com/omikasinghOS/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [3838-weighted-word-mapping](https://github.com/omikasinghOS/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/omikasinghOS/leetcode-solutions/tree/master/0068-text-justification) |
+| [3838-weighted-word-mapping](https://github.com/omikasinghOS/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
